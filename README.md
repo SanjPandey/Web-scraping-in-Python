@@ -109,6 +109,33 @@ OutPut:
 4   200.00  
 5    42.86  
 6    80.00  
+
+output
+Batting Scorecard							
+Batter	Dismissal	R	B	4s	6s	SR	
+Tanzid Hasan	c Rahul Chopra b Matiullah Khan	10	9	1	1	111.11	
+Parvez Hossain Emon	b Jawadullah	100	54	5	9	185.19	
+Litton Das (c)	lbw b Jawadullah	11	8	0	1	137.50	
+Towhid Hridoy	c Muhammad Zohaib b Dhruv Parashar	20	15	1	1	133.33	
+Mahedi Hasan	c Rahul Chopra b Jawadullah	2	5	0	0	40.00	
+Jaker Ali (wk)	c Sanchit Sharma b Muhammad Zuhaib	13	14	0	1	92.86	
+Shamim Hossain	lbw b Jawadullah	6	5	1	0	120.00	
+Tanzim Hasan Sakib	not out	7	9	1	0	77.78	
+Tanvir Islam	not out	1	4	0	0	25.00	
+							
+Extras 21 (b 4, lb 4, w 10, nb 3, p 0)							
+Total 191 (7 wkts, 20 Ov)							
+							
+Bowling Scorecard							
+Bowler	O	M	R	W	NB	WD	ECO
+Dhruv Parashar	4	0	32	1	0	2	8.00
+Matiullah Khan	4	0	46	1	3	2	11.50
+Haider Ali	4	0	30	0	0	0	7.50
+Jawadullah	4	0	21	4	0	5	5.20
+Sanchit Sharma	1	0	18	0	0	0	18.00
+Muhammad Zuhaib	3	0	36	1	0	1	12.00
+
+
 7     0.00  
 8     0.00  
 9     0.00  
